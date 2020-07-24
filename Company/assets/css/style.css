@@ -88,7 +88,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #header .logo a {
   color: #111;
-  margin-right: 170px;
 }
 
 #header .logo a span {
@@ -96,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 50px;
+  max-height: 40px;
 }
 
 /*--------------------------------------------------------------
